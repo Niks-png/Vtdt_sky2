@@ -197,7 +197,7 @@
                                             <div class="flex items-center">
                                                 <p class="text-3xl font-bold"></p>
                                                 <p class="bg-white dark:bg-gray-600 dark:text-white text-gray-600 text-xl font-semibold  mb-2" id="">
-                                                    <?php echo $data['list'][0]['temp']['day']; ?>
+                                                    <?php echo $data['list'][0]['temp']['eve']; ?>
                                                 °C
                                                 </p>
                                             </div>
